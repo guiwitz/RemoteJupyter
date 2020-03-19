@@ -1,0 +1,11 @@
+name: remotejupyter
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - sympy
+  - jupyter
+  - jupyterlab
