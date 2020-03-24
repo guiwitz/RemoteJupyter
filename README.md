@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guiwitz/RemoteJupyter/master?filepath=Jupyter_in_remote_times.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guiwitz/RemoteJupyter/blob/master/Jupyter_in_remote_times.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guiwitz/RemoteJupyter/blob/master/Jupyter_in_remote_times_colab.ipynb)
 [![View in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/guiwitz/RemoteJupyter/blob/master/Jupyter_in_remote_times.ipynb)
 
 # Using Jupyter for remote science and teaching
